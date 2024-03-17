@@ -33,9 +33,12 @@ You are required to model the demand for shared bikes with the available indepen
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikitlearn
+- statsmodels
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
